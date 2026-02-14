@@ -107,8 +107,8 @@ body {
     margin: 0;
   }
   .navbar ul li {
-    padding: 4px;
-    margin: 7px;
+    padding: 1px;
+   
     /* align-self:center; */
   }
   .logo-img {
