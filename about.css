@@ -650,4 +650,19 @@ footer {
     justify-content: space-between;
     width: 100%;
   }
+    .footer-places{
+    font-size: 12px;
+  }
+  .footer-pages{
+    font-size: 12px;
+  }
+  .footer-details{
+    font-size: 12px;
+  }
+    .footer-logo-name{
+    margin: 0;
+  }
+  p{
+    margin: 2px;
+  }
 }

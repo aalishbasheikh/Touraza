@@ -478,4 +478,19 @@ footer {
     justify-content: space-between;
     width: 100%;
   }
+    .footer-places{
+    font-size: 12px;
+  }
+  .footer-pages{
+    font-size: 12px;
+  }
+  .footer-details{
+    font-size: 12px;
+  }
+  p{
+    margin-top: 0%;
+  }
+  .footer-logo-name{
+    margin: 0;
+  }
 }
